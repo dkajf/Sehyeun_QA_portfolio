@@ -4,7 +4,7 @@
 
 주차별로 게임 분석, 버그 리포트, 테스트 설계 및 개선 기록을 정리합니다.
 
-## 🛠 Skills Used
+# Skills Used
 - Bug Reporting
 - Test Case Design
 - Excel
