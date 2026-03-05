@@ -1,4 +1,4 @@
-# game Analysis - 명일방주 엔드필드
+# Game Analysis Portfolio - 명일방주 엔드필드
  - 이하 엔드필드로 서술
 
 ## 0. 플레이 경험 요약
