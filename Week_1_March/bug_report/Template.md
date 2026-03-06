@@ -1,13 +1,17 @@
 # Bug Report - 
 ## Environment
 - OS: Windows 11
-- Game Version: -
+- Game : 
 
 ## Severity
+Critical Major Minor Trivial
 
+>
 
 ## Priority
+Highest, High, Medium, Low
 
+>
 
 ## Reproduction Steps
  1. 
