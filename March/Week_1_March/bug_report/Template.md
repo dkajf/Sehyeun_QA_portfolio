@@ -1,4 +1,5 @@
 # Bug Report - 
+
 ## Environment
 - OS: Windows 11
 - Game : 
@@ -24,4 +25,4 @@ Highest, High, Medium, Low
 ## Actual Result
 - 
 
-## Back Story
+## Notes

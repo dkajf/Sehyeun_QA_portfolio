@@ -12,8 +12,16 @@
 - C++ / Python
 
 ## Week_1
-[game_analysis_endfield](./Week_1_March/game_analysis_endfield.md)
 
-[bug_report_01](./Week_1_march/bug_report/bug_report_01.md)
+기존 경험 및 스터디 위주 우선 정리를 해봤습니다
 
-[code_test_01](./Week_1_March/code_test/)
+[game_analysis_endfield](./March/Week_1_March/game_analysis_endfield.md)
+
+[bug_report](./March/Week_1_March/bug_report/bug_report.md)
+
+[code_study](./March/Week_1_March/code_study/code_study_c++_01/0305.c++)
+
+[CTFL](./March/Week_1_March/CTFL_foundation.md)
+
+## Week_2
+
