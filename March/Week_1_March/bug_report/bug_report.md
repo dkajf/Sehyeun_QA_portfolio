@@ -71,37 +71,43 @@ Highest
 
 ## Notes
 - 21년 1월 게임 클라이언트 업데이트 당시 뱅가드 버프 스킬이 코드 누락이되어 스킬 사용시 클라이언트 충돌이 일어나 강제 종료가 되었음
-![당시 이미지](./evidence/bug_02.png)
+![당시 상황](./evidence/bug_02.png)
 
 
 ---
 
 
-# Bug Report - 
+# Bug Report - 해체기 UI의 신고하기 버튼이 장비 시뮬레이션 UI에 의해 가려져도 클릭되는 현상
 
 ## Environment
 - OS: Windows 11
-- Game : 
+- Game : DNF
 
 ## Severity
-Critical Major Minor Trivial
+Minor
 
->
+> 게임 진행에 큰 영향 없음
 
 ## Priority
-Highest, High, Medium, Low
+Low
 
->
+> 유저에게 다소 혼란을 유래하나 수정 필요성은 낮음
 
 ## Reproduction Steps
- 1. 
- 2. 
- 3. 
+ 1. 다른 유저의 해체기를 클릭, 해체기 UI를 연다
+ 2. 장비창의 장비 시뮬레이션을 클릭 UI를 연다
+ 3. 장비 시뮬레이션 UI로 가려진 해체기 UI의 신고하기 버튼이 있는 곳을 클릭
 
 ## Expected Result
-- 
+- UI 레이어상 장비 시뮬레이션 UI가 입력을 우선 처리하여 해체기 UI의 신고 버튼이 클릭 되지 않아야함
 
 ## Actual Result
-- 
+- 신고하기 버튼이 클릭되고, 신고 UI가 팝업됨
 
 ## Notes
+ - UI 레이어 우선순위 처리 문제로 추정됨
+
+![이미지 추가 예정](./evidence/bug_03.png)
+
+
+---
