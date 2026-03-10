@@ -13,7 +13,7 @@
 
 ## Week_1
 
-기존 경험 및 ctfl 스터디 위주 정리입니다
+기존 경험 및 CTFL 스터디 위주 정리를 했습니다
 
 [game_analysis_endfield](./March/Week_1_March/game_analysis_endfield.md)
 
@@ -25,12 +25,18 @@
 
 ## Week_2
 
-CTFL 실러버스 기반 정리, 깃 플로우와 sql 정리 예정입니다
+CTFL 실러버스 기반 정리, 깃 플로우 문서 정리 예정입니다
 
 [CTFL](./March/Week_2_March/CTFL_foundation.md)
 
 [git_flow](./March/Week_2_March/git_flow.md)
 
-[SQL](./March/Week_2_March/SQL.md)
-
 [test_case](./March/Week_2_March/test_case/test_case.md)
+
+## Week_3
+
+CTFL 샘플 문제 풀이, SQL 정리 예정입니다
+
+[CTFL]
+
+[SQL](./March/Week_3_March/SQL.md)
