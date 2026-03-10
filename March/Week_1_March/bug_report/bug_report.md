@@ -73,7 +73,7 @@ Highest
 <br />
 <br />
 
-## Bug Report - 해체기 UI의 신고하기 버튼이 무기고 UI에 의해 가려져도 클릭되는 현상
+## Bug Report - 해체기 UI의 신고 버튼이 무기고 UI에 의해 가려져도 클릭되는 현상
 
 ### Environment
 - OS: Windows 11
@@ -92,13 +92,13 @@ Low
 ### Reproduction Steps
  1. 다른 유저의 해체기를 클릭, 해체기 UI를 연다
  2. 장비창의 무기고 버튼을 클릭 UI를 연다
- 3. 무기고 UI로 가려진 해체기 UI의 신고하기 버튼이 있는 곳을 클릭
+ 3. 무기고 UI로 가려진 해체기 UI의 신고 버튼이 있는 곳을 클릭
 
 ### Expected Result
-- UI 레이어상 장비 시뮬레이션 UI가 입력을 우선 처리하여 해체기 UI의 신고 버튼이 클릭 되지 않아야함
+- UI 레이어상 무기고 UI가 입력을 우선 처리하여 해체기 UI의 신고 버튼이 클릭 되지 않아야함
 
 ### Actual Result
-- 신고하기 버튼이 클릭되고, 신고 UI가 출력
+- 신고 버튼이 클릭되고, 신고 UI가 출력
 
     ![현재 상황](./evidence/bug_03.gif)
 
