@@ -13,7 +13,7 @@
 
 ## Week_1
 
-기존 경험 및 스터디 위주 정리를 우선 했습니다
+기존 경험 및 ctfl 스터디 위주 정리입니다
 
 [game_analysis_endfield](./March/Week_1_March/game_analysis_endfield.md)
 
@@ -25,6 +25,12 @@
 
 ## Week_2
 
-git 관련하여 경력자에게 git flow 와 팀업을 공부해보는 미팅을 가질 예정입니다
+CTFL 실러버스 기반 정리, 깃 플로우와 sql 정리 예정입니다
 
-CTFL 실러버스 정리를 끝내고 샘플 문제로 시험을 대비할 예정입니다
+[CTFL](./March/Week_2_March/CTFL_foundation.md)
+
+[git_flow](./March/Week_2_March/git_flow.md)
+
+[SQL](./March/Week_2_March/SQL.md)
+
+[test_case](./March/Week_2_March/test_case/test_case.md)
