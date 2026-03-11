@@ -25,7 +25,7 @@
 
 ## Week_2
 
-CTFL 실러버스 기반 정리, 깃 플로우 문서 정리 예정입니다
+CTFL 실러버스 기반 정리, 깃 공부 문서 정리 예정입니다
 
 [CTFL](./March/Week_2_March/CTFL_foundation.md)
 
