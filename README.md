@@ -9,17 +9,17 @@
 - Test Case Design
 - Excel
 - Git
-- C++ / Python
+- C++
 
 ## Week_1
 
 기존 경험 및 CTFL 스터디 위주 정리를 했습니다
 
-[game_analysis_endfield](./March/Week_1_March/game_analysis_endfield.md)
+[Game_Analysis_Endfield](./March/Week_1_March/game_analysis_endfield.md)
 
-[bug_report](./March/Week_1_March/bug_report/bug_report.md)
+[Bug_Report](./March/Week_1_March/bug_report/bug_report.md)
 
-[code_study](./March/Week_1_March/code_study/code_study_c++_01/0305.c++)
+[Code_Study](./March/Week_1_March/code_study/code_study_c++_01/0305.c++)
 
 [CTFL](./March/Week_1_March/CTFL_foundation.md)
 
@@ -29,9 +29,9 @@ CTFL 실러버스 기반 정리, 깃 플로우 문서 정리 예정입니다
 
 [CTFL](./March/Week_2_March/CTFL_foundation.md)
 
-[git_flow](./March/Week_2_March/git_flow.md)
+[Git](./March/Week_2_March/Git_study/README.md)
 
-[test_case](./March/Week_2_March/test_case/test_case.md)
+[TestCase](./March/Week_2_March/testcase/testcase_1.md)
 
 ## Week_3
 
