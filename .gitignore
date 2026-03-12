@@ -37,3 +37,13 @@ Highest, High, Medium, Low
 문제 ~ 예제까지 입력
 ### Analyse Specification
 명세 분석
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+}
