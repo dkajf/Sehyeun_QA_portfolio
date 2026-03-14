@@ -21,13 +21,13 @@ int main(){
 
     cin >> M;
 
-    for (int i = 0; i < N; i++){
+    for (int i = 0; i < M; i++){
         int x;
         cin >> x;
 
-        int count = upper_bound(A.begin(), A.end(), x) - lower_bound(A.begin(), A.end(d), x);
+        int count = upper_bound(A.begin(), A.end(), x) - lower_bound(A.begin(), A.end(), x);
 
         cout << count << ' ';
     }
-
+    return 0;
 }
