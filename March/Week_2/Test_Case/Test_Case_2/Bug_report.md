@@ -30,4 +30,4 @@ Medium
 
 ### Evidence
 
-! [당시 상황](bug.gif)
+![당시 상황](bug.gif)
