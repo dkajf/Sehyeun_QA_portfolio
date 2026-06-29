@@ -41,6 +41,8 @@ CTFL 실러버스 기반 정리, 깃 관리 프로젝트를 진행했습니다
 
 [TestCase](./March/Week_2/Test_Case/Test_Case_1.md)
 
+[TestCase_Trickcal](./March/Week_2/Test_Case/Test_Case_2/Test_Case.md)
+
 ---
 
 ## Week_3
