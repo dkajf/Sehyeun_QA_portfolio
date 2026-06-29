@@ -31,7 +31,7 @@ Medium
  - 맵 UI 를 열었음에도 로직이 중단되지않고, 조작이 불가능하여 강제 종료를 하였다.
 
 
-    ![해당 상황](./evidence/bug_01.gif)
+    ![해당 상황](./Evidence/bug_01.gif)
 
 
 <br />
@@ -67,7 +67,7 @@ Highest
 
 ## Notes
 - 21년 1월 게임 클라이언트 업데이트 당시 뱅가드 버프 스킬이 코드 누락이되어 스킬 사용시 클라이언트 충돌이 일어나 강제 종료가 되었음
-![당시 상황](./evidence/bug_02.png)
+![당시 상황](./Evidence/bug_02.png)
 
 <br />
 <br />
@@ -100,7 +100,7 @@ Low
 ### Actual Result
 - 신고 버튼이 클릭되고, 신고 UI가 출력
 
-    ![현재 상황](./evidence/bug_03.gif)
+    ![현재 상황](./Evidence/bug_03.gif)
 
 ### Notes
  - UI 레이어 우선순위 처리 문제로 추정됨
